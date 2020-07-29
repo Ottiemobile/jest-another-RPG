@@ -1,0 +1,22 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "this is a repository dedicated to developing the game",
+  "main": "game.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ottiemobile/jest-another-RPG.git"
+  },
+  "author": "Ethan Torres",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ottiemobile/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/Ottiemobile/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
+}
